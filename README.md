@@ -1,4 +1,4 @@
-## End to end ML Project
+# End to end ML Project
 
 ### created a environment
 
@@ -14,4 +14,3 @@ conda activate venv/
 pip install -r requirements.txt
 
 '''
-
